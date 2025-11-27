@@ -1,0 +1,1 @@
+Esta la guia 3 ya con los cambios y mejoras de la guia 4. Por si quiere ver los archivos de la guia 3 original, puede ver los commits de el repositorio viejo aqui: https://github.com/ALIPIXELED/Guia-3-Desarrollo-Web-1-20245542
